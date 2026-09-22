@@ -1,0 +1,6 @@
+{
+  "name": "B&P Burkhard und Partner Treuhand GmbH",
+  "description": "Professional fiduciary and accounting services in Bern, Switzerland. Providing financial bookkeeping, payroll administration, VAT compliance, and year-end closing for Swiss businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
