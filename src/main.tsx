@@ -15,7 +15,7 @@ createRoot(document.getElementById('root')!).render(
 
   const script = document.createElement('script');
   script.src = 'https://cdn.zanderio.ai/widget/loader.js';
-  script.setAttribute('data-id', 'wdg_Bh8PyTUfIdhDvP0bP9ipspP8'); // 👈 NAYA ID
+  script.setAttribute('data-id', 'wdg_wGV0IjPzdTFpgzAlHvhI1y8M'); // 👈 NAYA ID
   script.async = true;
 
   script.onload = () => console.log('✅ Zanderio loaded');
